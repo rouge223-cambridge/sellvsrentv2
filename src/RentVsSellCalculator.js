@@ -1,0 +1,1 @@
+// React component placeholder to be filled in manually if needed.
